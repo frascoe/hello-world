@@ -1,4 +1,4 @@
-*6 dinosaur names
+*6 dinosaur names*
 
 Triceratops Trachodon Allosaurus
 

@@ -1,4 +1,4 @@
-This is Fred.
+6 dinosaur names
 
 Triceratops Trachodon Allosaurus
 

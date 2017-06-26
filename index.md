@@ -1,3 +1,5 @@
 This is Fred.
 
-Whoa.
+Triceratops Trachodon Allosaurus
+
+Ankylosaurus Diplodocus Brachiosaurus
